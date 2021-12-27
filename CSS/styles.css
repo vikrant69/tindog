@@ -1,0 +1,154 @@
+body{
+    text-align: center;
+}
+
+.tophead{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.navbar-brand{
+    font-size:22px;
+}
+nav{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#banner{
+    background-color:#1e71d6;
+    padding-top: 60px;
+}
+
+.h3-1{
+    color: rgb(184, 223, 255);
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.h1-1{
+    color: white;
+    padding-bottom: 20px;
+}
+
+.btn1, .btn2{
+    width: 200px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    
+}
+.btn1{
+    color: white;
+}
+
+.btn2{
+    color: rgb(92, 236, 255);;
+}
+
+.h4-1{
+    margin-top: 70px;
+    font-weight: 700;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 22px;
+    color: #919191;
+}
+
+.h1-2{
+    color: #fc7f7f;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+    letter-spacing: -3.5px;
+    font-size: 50px;
+}
+
+.p-1{
+    font-family: 'Montserrat', sans-serif;
+    color: #566073;
+    font-size: 19px;
+    font-weight: 600;
+    margin: 0 20% 100px 20%;
+
+}
+
+.h3-2{
+    font-family: 'Montserrat', sans-serif;
+    text-align: right;
+    color: #fc7f7f;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.p-2{
+    text-align: right;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.h3-3{
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    color: #fc7f7f;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.p-3{
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-row{
+    padding: 50px 100px;
+    font-family: 'Quicksand',sans-serif;
+    background-color: #fc7f7f;
+    color: white
+}
+
+.div1{
+    text-align: left;
+    font-size: 22px;
+    letter-spacing: 10px;
+    font-weight: 700;
+    margin-top: 40px  ;
+    line-height: 30px;
+}
+
+.h2-1{
+    text-align: left;
+    font-size: 50px;
+    letter-spacing: -3.5;
+    font-weight: 700;
+}
+
+.forms{
+    width: 323px;
+    text-align: left;
+}
+
+.btn3{
+    color: #ffffff;
+    width: 100%;
+}
+
+.div2{
+    padding-top: 20px;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+footer{
+    color: #ffffff;
+    background-color: rgb(54, 53, 53);
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+.foot-div{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: left;
+    height: 50px;
+}
+
